@@ -1,11 +1,9 @@
 main:
-  - title: "Home"
-    url: /
+  - title: "About"
+    url: /about/
   - title: "Research"
     url: /research/
   - title: "Conference/Publications"
     url: /publications/
-  - title: "Bio"
-    url: /about/
   - title: "Post"
     url: /post/
