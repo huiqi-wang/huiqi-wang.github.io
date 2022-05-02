@@ -1,5 +1,6 @@
 ---
 title: A Project
+permalink: /research/
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
