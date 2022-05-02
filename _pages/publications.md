@@ -1,3 +1,7 @@
+---
+permalink: /publications/
+title: "Conference/Publications"
+---
 
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Conference</u></em></strong></a>
