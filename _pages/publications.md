@@ -9,7 +9,13 @@ author_profile: true
 
 
 <br /><strong><br />
+- </strong>
+<strong>Wang H</strong>, Keenan TF, Kimm H (2021)
+Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States.
+<em>AGU 2021 Fall Meeting</em> Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/928037">here</a>.
 
-<strong>Zhou S</strong>, <strong>Keenan TF</strong>, Williams AP, Lintner B, <strong>Zhang Y</strong>, Gentine P (2022)
-Large divergence in tropical hydrological projections caused by model spread in vegetation responses to elevated CO<sub>2</sub>.
-<em>Earth's Future</em> 10, e2021EF002457 <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021EF002457">here</a>.
+
+
+[1] H. Wang, TF. Keenan, H. Kimm, “Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021
+[2] H. Wang, TF. Keenan, X. Lu, “Assessment of Gross Primary Productivity (GPP) from SMAP Level-4 Carbon Product in Comparison to Ground Observations and An Ensemble of Global GPP Products”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021
+[3] H. Wang, TF. Keenan, K. Yang, YN. Rubin, “Application of Machine Learning–Based Emulator for a Groundwater Model”, AMS 2022 Annual Meeting, Posters, Virtually. Jan 2022
