@@ -20,5 +20,5 @@ Assessment of Gross Primary Productivity (GPP) from SMAP Level-4 Carbon Product 
 
 - <strong>Wang H</strong>, Keenan TF, Yang K, Rubin YN (2022)
 Application of Machine Learning–Based Emulator for a Groundwater Model.
-<em>AMS 2022 Annual Meeting</em> Posters, In Person <a href="https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/397068">here</a>.
+<em>AMS 2022 Annual Meeting</em>, Posters, In Person <a href="https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/397068">here</a>.
 
