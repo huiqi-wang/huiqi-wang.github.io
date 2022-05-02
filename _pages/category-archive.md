@@ -1,6 +1,6 @@
 ---
 title: "Research"
 layout: categories
-permalink: /categories/
+permalink: /Research/
 author_profile: true
 ---
