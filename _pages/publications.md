@@ -1,3 +1,3 @@
-[1] H. Wang, TF. Keenan, H. Kimm, “Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021
-[2] H. Wang, TF. Keenan, X. Lu, “Assessment of Gross Primary Productivity (GPP) from SMAP Level-4 Carbon Product in Comparison to Ground Observations and An Ensemble of Global GPP Products”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021
+[1] H. Wang, TF. Keenan, H. Kimm, “Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021 //
+[2] H. Wang, TF. Keenan, X. Lu, “Assessment of Gross Primary Productivity (GPP) from SMAP Level-4 Carbon Product in Comparison to Ground Observations and An Ensemble of Global GPP Products”, AGU 2021 Fall Meeting, Posters, In Person. Dec 2021 //
 [3] H. Wang, TF. Keenan, K. Yang, YN. Rubin, “Application of Machine Learning–Based Emulator for a Groundwater Model”, AMS 2022 Annual Meeting, Posters, Virtually. Jan 2022
