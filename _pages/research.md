@@ -11,7 +11,6 @@ I have been working on two research projects. One is to quantify the role of wat
 	<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity </a>
 	
 
-</div>
 	<br/>
 
 
@@ -22,7 +21,7 @@ I have been working on two research projects. One is to quantify the role of wat
 		The SMAP project leverages information from NASAs soil moisture active-passive (SMAP) sensor within a model benchmarking framework, 
 		combining both the carbon and water cycles to quantify the role of water in regulating global ecosystem state and function.
 		</p>
-	</div>
+	
 </div>
 
 
