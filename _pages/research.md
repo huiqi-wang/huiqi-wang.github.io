@@ -5,11 +5,17 @@ author_profile: true
 ---
 I have been working on two research projects. One is to quantify the role of water in regulating global ecosystem state and function, combining both the carbon and water cycles. Another is to explore the application of machine learning-based emulator on improveing the current processed-based groundwater modeling.
 
+
+
 <div class="row">
 	<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity </a>
 	
 
+</div>
+	<br/>
 
+
+		
 <div class="row">
 	<div class="col-md-11">
 		<p>Water availability plays a large role in the global carbon, water and energy cycles, and limits ecosystem productivity in almost all biomes. 
