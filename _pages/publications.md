@@ -10,12 +10,12 @@ author_profile: true
 
 - <strong>Wang H</strong>, Keenan TF, Kimm H (2021)
 Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States.
-<em>AGU 2021 Fall Meeting</em> Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/928037">here</a>.
+<em>AGU 2021 Fall Meeting</em>, Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/928037">here</a>.
 
 
 - <strong>Wang H</strong>, Keenan TF, Lu X (2021)
 Assessment of Gross Primary Productivity (GPP) from SMAP Level-4 Carbon Product in Comparison to Ground Observations and An Ensemble of Global GPP Products.
-<em>AGU 2021 Fall Meeting</em> Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/981055">here</a>.
+<em>AGU 2021 Fall Meeting</em>, Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/981055">here</a>.
 
 
 - <strong>Wang H</strong>, Keenan TF, Yang K, Rubin YN (2022)
