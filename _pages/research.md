@@ -15,6 +15,7 @@ people:
   - wolverine
 
 layout: project
+author_profile: true
 last-updated: 2015-05-05
 ---
 
