@@ -1,17 +1,9 @@
 ---
-title: "Research"
+#title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<div class="container">
-		<br/>	
-	
-		<br/>		
-		<div class="row">
-			<h3><a id="currentOps">Current Projects</h3></a>
-			<br />
-		</div>
-		<br />
+
 		<div class="row">
 			<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity</h4></a>
 			<br />
@@ -42,4 +34,4 @@ author_profile: true
 		</div>
 		<br/>	
   
- </div>
+ 
