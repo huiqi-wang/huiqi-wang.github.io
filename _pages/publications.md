@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Conference/Publications"
+
 ---
 
 <br /><br /><br />
