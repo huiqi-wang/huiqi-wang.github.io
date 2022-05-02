@@ -13,10 +13,10 @@ I have been working on two research projects. One is to quantify the role of wat
 <div class="row">
 	<h3><a id="currentOps">Current Projects</h3></a>
 	<br />
-</div>
+
 <br />
 		
-</div>
+
 
 
 <div class="row">
