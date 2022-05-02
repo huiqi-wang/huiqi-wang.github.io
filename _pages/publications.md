@@ -7,9 +7,8 @@ author_profile: true
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Conference</u></em></strong></a>
 
-<br /><strong><br />
-- 
-<strong>Wang H</strong>, Keenan TF, Kimm H (2021)
+
+- <strong>Wang H</strong>, Keenan TF, Kimm H (2021)
 Quantifying the Sensitivity of Ecosystem State and Function to Soil Moisture in the United States.
 <em>AGU 2021 Fall Meeting</em> Posters, In Person <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/928037">here</a>.
 
