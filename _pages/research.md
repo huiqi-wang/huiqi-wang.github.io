@@ -29,7 +29,7 @@ I have been working on two research projects. One is to quantify the role of wat
 
 </div>
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="assets/images/smap1.png" width="400" height="256" />                           </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                           </div>
 	</div>
 </div>
 <br/>	
