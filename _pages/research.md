@@ -28,19 +28,13 @@ author_profile: true
 		</div>
 		<div class="row">
 			<div class="col-sm-6">	
-				<p>Limits on ecosystem productivity due to water availability manifest through constraints on the amount of biomass that can be sustained, 
-				and on the amount of photosynthesis that can be maintained. These constraints are most evident in the world’s warm and arid environments, 
-				where water plays the dominant role in primary production and where foliage cover, plant water use, and photosynthesis are all tightly coupled. 
-				They are also evident in the world’s cold regions, however, where freeze-thaw states dictate landscape hydrology and water availability. 
-				The consequences of changes in water availability on global ecosystems are thus potentially dramatic. 
-				Understanding both the current constraint of water availability on ecosystem function, and the consequences of likely future changes, is therefore an urgent need -
-				one that we aim to address.
+				<p>xxxxx.
 				
 				</p>
 				
-				PI: Keenan	<br/>
-				Co-I: Girotto (UC Berkeley)<br/>
-				Funding: NASA SMAP Science Team<br/>
+				??	<br/>
+				?? <br/>
+				?? <br/>
 			 </div>
 			 <div class="col-sm-6">
 					<div class="image-middle"><img class="imageStyle" alt="proxima" src="images/fields/TreeSavanah.jpg" width="400" height="256" /></div>
