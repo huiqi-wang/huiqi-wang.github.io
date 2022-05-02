@@ -1,6 +1,6 @@
 
 <br /><br /><br />
-<a id="recent" style="color:314482"><strong><em><u>New Results</u></em></strong></a>
+<a id="recent" style="color:314482"><strong><em><u>Conference</u></em></strong></a>
 
 
 <br /><strong><br />
