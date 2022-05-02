@@ -11,7 +11,7 @@ I have been working on two research projects. One is to quantify the role of wat
 
 <br/>		
 <div class="row">
-	<h3><a id="currentOps">Current Projects</h3></a>
+	<h3><a id="currentOps">Current Projects</a>
 	<br />
 
 <br />
