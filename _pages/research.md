@@ -8,7 +8,6 @@ I have been working on two research projects. One is to quantify the role of wat
 <div class="row">
 	<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity </a>
 	
-</div>
 
 
 <div class="row">
@@ -20,10 +19,7 @@ I have been working on two research projects. One is to quantify the role of wat
 	</div>
 </div>
 
-<div class="row">
-	<div class="col-sm-6">	
-		<p>xxxxx.
-        </div>
+
 
 </div>
 <div class="col-sm-6">
