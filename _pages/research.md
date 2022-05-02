@@ -1,5 +1,5 @@
 ---
-title: A Project
+title: "Research"
 permalink: /research/
 
 description: 
