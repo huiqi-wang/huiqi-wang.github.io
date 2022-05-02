@@ -11,22 +11,24 @@ I have been working on two research projects. One is to quantify the role of wat
 	<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity </a>
 	
 
-	<br/>
+
 
 
 		
 <div class="row">
-	<div class="col-md-11">
-		<p>Water availability plays a large role in the global carbon, water and energy cycles, and limits ecosystem productivity in almost all biomes. 
-		The SMAP project leverages information from NASAs soil moisture active-passive (SMAP) sensor within a model benchmarking framework, 
-		combining both the carbon and water cycles to quantify the role of water in regulating global ecosystem state and function.
-		</p>
-	
-</div>
+		<div class="col-md-11">
+				Water availability plays a large role in the global carbon, water and energy cycles, and limits ecosystem productivity in almost all biomes. 
+				The SMAP project leverages information from NASAs soil moisture active-passive (SMAP) sensor within a model benchmarking framework, 
+				combining both the carbon and water cycles to quantify the role of water in regulating global ecosystem state and function.
+				
+
+		</div>
 
 
 
 </div>
+		
+		
 <div class="col-sm-6">
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                           </div>
 	</div>
