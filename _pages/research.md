@@ -1,19 +1,6 @@
 ---
 title: "Research"
 permalink: /research/
-
-description: 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
-
-people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
-
 layout: project
 author_profile: true
 last-updated: 2015-05-05
