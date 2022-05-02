@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Conference/Publications"
-
+author_profile: true
 ---
 
 <br /><br /><br />
