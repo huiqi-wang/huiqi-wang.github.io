@@ -13,7 +13,7 @@ The overarching objective of this interdisciplinary project is to improve unders
 			at high spatial and temporal resolutions.
 
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="2482" height="1118" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="1241" height="559" />                       </div>
 
 
 <br /><br /><br />
