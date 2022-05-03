@@ -11,11 +11,12 @@ I have been working on two research projects. One is to quantify the role of wat
 	<br />
 		
 
-        <div class="col-md-11">
-                  <p>The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between      
-	          terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research at high  
-	          spatial and temporal resolutions. </p>
-        </div>
+<div class="col-md-11">
+	  <p>The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between      
+	  terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research at high  
+	  spatial and temporal resolutions. 
+	  </p>
+</div>
 </div>
 
 
