@@ -9,10 +9,9 @@ I have been working on two research projects. One is to quantify the role of wat
 <div class="row">
 	<h3><a id="currentOps">SMAP: Soil moisture controls on global vegetation productivity</a> <h3> 
 <br />
+The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research at high spatial and temporal resolutions.
 
-The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between      
-	  terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research at high  
-	  spatial and temporal resolutions.
+<br />
 		
 <div class="col-sm-6">
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                           </div>
