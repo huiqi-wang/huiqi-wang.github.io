@@ -9,7 +9,7 @@ I have been working on two research projects. One is to quantify the role of wat
 <div class="col-sm-6">
 The objective of this project is to improve understanding of the global exchange of carbon between
 			terrestrial ecosystems and the atmosphere,by utilizing new theory and observations in land, atmospheric and space-based research
-			at high spatial and temporal resolutions. More details here.
+			at high spatial and temporal resolutions. More details <a href="https://www.keenangroup.info/currentProjects.html">here</a>.
 </div>
 <br>
 Some preliminary results:
