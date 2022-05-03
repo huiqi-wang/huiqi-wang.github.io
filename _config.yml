@@ -72,8 +72,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huiqi-wang"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "whq225@berkeley.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:whq225@berkeley.edu"
 
 #footer:
 #  links:
