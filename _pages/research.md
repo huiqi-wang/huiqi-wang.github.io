@@ -7,9 +7,9 @@ I have been working on two research projects. One is to quantify the role of wat
 
 <a id="recent" style="color:314482"><strong><em><u>SMAP: Soil moisture controls on global vegetation productivity</u></em></strong></a>
 <div class="col-sm-6">
-The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between
-			terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research
-			at high spatial and temporal resolutions.
+The objective of this project is to improve understanding of the global exchange of carbon between
+			terrestrial ecosystems and the atmosphere,by utilizing new theory and observations in land, atmospheric and space-based research
+			at high spatial and temporal resolutions. More details here.
 </div>
 <br>
 Some preliminary results:
