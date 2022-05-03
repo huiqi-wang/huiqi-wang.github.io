@@ -4,19 +4,21 @@ permalink: /research/
 author_profile: true
 ---
 I have been working on two research projects. One is to quantify the role of water in regulating global ecosystem state and function, combining both the carbon and water cycles. Another is to explore the application of machine learning-based emulator on improveing the current processed-based groundwater modeling.
-
+ 
 <br/>		
 <div class="row">
-	<h3><a id="currentOps">SMAP: Soil moisture controls on global vegetation productivity</a> <h3> 
+	<a id="currentOps">SMAP: Soil moisture controls on global vegetation productivity</a>
 <br />
-The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research at high spatial and temporal resolutions.
-
-<br />
-		
-<div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                           </div>
+		<div style=“font-weight: normal”> 
+			The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between
+			terrestrial ecosystems and the atmosphere,by leverage new theory and observations in land, atmospheric and space-based research
+			at high spatial and temporal resolutions.
+                </div>
+		<div class="col-sm-6">
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                       </div>
 </div>
 
+		
 <br/>	
 		
 <div class="row">
