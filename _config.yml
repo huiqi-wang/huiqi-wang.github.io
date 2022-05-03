@@ -73,7 +73,7 @@ author:
       url: "https://github.com/huiqi-wang"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:whq225@berkeley.edu"
+      url: "mailto:whq225@berkeley.edu"
 
 #footer:
 #  links:
