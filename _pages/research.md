@@ -3,7 +3,7 @@
 permalink: /research/
 author_profile: true
 ---
-I have been working on two research projects. One is to quantify the role of water in regulating global ecosystem state and function, combining both the carbon and water cycles. Another is to explore the application of machine learning-based emulator on improveing the current processed-based groundwater modeling.
+I have been working on two research projects. One is to quantify the role of water in regulating global ecosystem state and function, combining both the carbon and water cycles. Another is to explore the application of machine learning-based emulator on improveing the current processed-based groundwater models.
 
 <a id="recent" style="color:314482"><strong><em><u>SMAP: Soil moisture controls on global vegetation productivity</u></em></strong></a>
 <div class="col-sm-6">
