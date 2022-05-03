@@ -67,13 +67,13 @@ author:
     #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/huiqi_wang56"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huiqi-wang"
     - label: "Email"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "whq225@berkeley.edu"
 
 #footer:
 #  links:
