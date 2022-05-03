@@ -13,7 +13,7 @@ The overarching objective of this interdisciplinary project is to improve unders
 			at high spatial and temporal resolutions.
 
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="800" height="600" />                       </div>
 
 
 <br /><br /><br />
@@ -22,4 +22,4 @@ The overarching objective of this interdisciplinary project is to improve unders
 The objective of this project is to develop machine learning based emulator to help conduct uncertainty analysis and sensitivity analysis of numerical groundwater model with reduced computation cost.
 
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/gw.png" width="800" height="600" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/gw2.png" width="800" height="600" />                       </div>
