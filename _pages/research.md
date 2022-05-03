@@ -17,7 +17,8 @@ Some preliminary results:
 
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Emulator for Groundwater Model</u></em></strong></a>
-The objective of this project is to develop machine learning based emulator to help conduct uncertainty analysis and sensitivity analysis of numerical groundwater model with reduced computation cost.
+The objective of this project is to develop machine learning based emulator to help conduct uncertainty analysis and sensitivity analysis of 
+	numerical groundwater model with reduced computation cost.
 
 <br>
 Some preliminary results:
