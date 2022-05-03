@@ -35,14 +35,12 @@ I have been working on two research projects. One is to quantify the role of wat
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap1.png" width="800" height="600" />                           </div>
 </div>
 
-<br/>	
-  
  
 <div class="row">
 	<h4><a id="SMAP">SMAP: Soil moisture controls on global vegetation productivity</h4></a>
 	<br />
 </div>
-	<br/>
+
 
 <div class="row">
 	<div class="col-md-11">
