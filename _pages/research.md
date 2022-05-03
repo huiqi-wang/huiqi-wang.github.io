@@ -7,7 +7,7 @@ I have been working on two research projects. One is to quantify the role of wat
 
 <br/>		
 <div class="row">
-	<h3><a id="currentOps">SMAP: Soil moisture controls on global vegetation productivity <h3> </a>
+	<h3><a id="currentOps">SMAP: Soil moisture controls on global vegetation productivity</a> <h3> 
 <br />
 
 The overarching objective of this interdisciplinary project is to improve understanding of the global exchange of carbon between      
