@@ -15,6 +15,8 @@ The objective of this project is to improve understanding of the global exchange
 Some preliminary results:
 <div class="col-sm-6">
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="1241" height="559" />                       </div>
+<div class="col-sm-6">
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.2.png" width="1241" height="531" />                       </div>
 
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Emulator for Groundwater Model</u></em></strong></a>
