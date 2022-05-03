@@ -16,7 +16,7 @@ Some preliminary results:
 <div class="col-sm-6">
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="1241" height="559" />                       </div>
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.3.png" width="1241" height="543" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.3.png" width="780" height="342" />                       </div>
 
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Emulator for Groundwater Model</u></em></strong></a>
