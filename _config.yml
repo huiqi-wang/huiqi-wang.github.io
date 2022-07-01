@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Huiqi Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in Dr.Trevor Keenan's group at UC Berkeley"
+  bio    : "PhD student at UC Berkeley"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
