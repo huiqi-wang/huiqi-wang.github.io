@@ -6,7 +6,7 @@ type: page
 classes: wide
 layout: single
 header:
-    overlay_image: /assets/images/lake.jpeg
+    overlay_image: /assets/images/lake.jpg
     
 ---
 
