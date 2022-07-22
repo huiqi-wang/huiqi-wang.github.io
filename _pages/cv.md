@@ -15,10 +15,10 @@ header:
 `2020-present`
 Ph.D. in Environment Engineering, University of California, Berkeley
 
-`2020-2021`
+`2020-2021  `
 M.S. in Environment Engineering, University of California, Berkeley
 
-`2018`
+`2014-2018  `
 B.S. in Water Resource and Hydraulic engineering, Tianjin University
 
 
@@ -26,7 +26,7 @@ B.S. in Water Resource and Hydraulic engineering, Tianjin University
 ### Profesional Experience
 
 `202206-present`
-Domain science Researcher (Advisor: Dale Hamilton, Vit Ruzicka, Cormac Purcell), NASA Frontier Development Lab 
+Domain Science Researcher (Advisor: Dale Hamilton, Vit Ruzicka, Cormac Purcell), NASA Frontier Development Lab 
 
 `202101-202108`
 Graduate Student Researcher (Advisor: Trevor F. Keenan), University of California, Berkeley
