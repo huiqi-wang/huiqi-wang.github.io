@@ -13,8 +13,7 @@ The objective of this project is to improve understanding of the global exchange
 </div>
 <br>
 Some preliminary results:
-<div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.png" width="1241" height="559" />                       </div>
+
 <div class="col-sm-6">
 			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.3.png" width="780" height="342" />                       </div>
 
