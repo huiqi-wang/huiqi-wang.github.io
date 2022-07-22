@@ -1,7 +1,14 @@
 ---
-#title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
+type: page
+classes: wide
+layout: single
+title: "Research"
+header:
+    overlay_image: /assets/images/lake.jpg
+    caption: 
+    
 ---
 I have been working on two research projects. One is to quantify the role of water in regulating global ecosystem state and function, combining both the carbon and water cycles. Another is to explore the application of machine learning-based emulator on improveing the current processed-based groundwater models.
 
