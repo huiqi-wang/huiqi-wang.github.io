@@ -7,7 +7,6 @@ classes: wide
 layout: single
 header:
     overlay_image: /assets/images/lake.jpg
-    caption: lake
 ---
 
 ### Education
