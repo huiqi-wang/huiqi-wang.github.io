@@ -4,8 +4,8 @@ author_profile: true
 layout: single
 classes: wide
 header:
-    overlay_image: /assets/images/header_photo_small.jpg
-    caption: Greak Smoky National Park
+    overlay_image: /assets/images/berkeleycampus.jpg
+    caption: UC Berkeley Campus
 excerpt: ''
 ---
 
