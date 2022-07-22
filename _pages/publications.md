@@ -1,11 +1,16 @@
 ---
 permalink: /publications/
-#title: "Conference/Publications"
-author_profile: true
+title: "Conferences/Publications"
+author_profile: false
+type: page
+classes: wide
+layout: single
+header:
+    overlay_image: /assets/images/lake.jpeg
+    
 ---
 
-<br /><br /><br />
-<a id="recent" style="color:314482"><strong><em><u>Conference</u></em></strong></a>
+## Conferences
 
 
 - <strong>Wang H</strong>, Keenan TF, Kimm H (2021)
