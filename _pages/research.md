@@ -22,7 +22,7 @@ The objective of this project is to improve understanding of the global exchange
 Some preliminary results:
 
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.3.png" width="780" height="342" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/smap2.3_change.png" width="780" height="342" />                       </div>
 
 <br /><br /><br />
 <a id="recent" style="color:314482"><strong><em><u>Emulator for Groundwater Model</u></em></strong></a>
@@ -33,4 +33,4 @@ The objective of this project is to develop machine learning based emulator to h
 <br>
 Some preliminary results:
 <div class="col-sm-6">
-			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/gw2.png" width="1160" height="418" />                       </div>
+			<div class="image-middle"><img class="imageStyle" alt="proxima" src="/assets/images/gw2_change.png" width="1160" height="418" />                       </div>
